@@ -1,4 +1,4 @@
-# Sheep Jump Game
+# Sheep Jump Game :sheep:
 
 Small game experiment (still unfinished) that involves a sheep jumping on rocks.
 
