@@ -1,6 +1,6 @@
 # Sheep Jump Game :sheep: :joystick:
 
-Small Godot game experiment (still a stub) that involves a sheep jumping on rocks.
+Small Godot game experiment that I wrote in 2019 (still a stub) that involves a sheep jumping on rocks. To be continued some day.
 
 ## Installation
 
