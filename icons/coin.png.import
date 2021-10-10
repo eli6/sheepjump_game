@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/icons8-rock-100.png-74d8e7de1201840a4f0f615753603f21.stex"
+path="res://.import/coin.png-d4aeb1ac998fa8474b5579d8e2764e8e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://icons8-rock-100.png"
-dest_files=[ "res://.import/icons8-rock-100.png-74d8e7de1201840a4f0f615753603f21.stex" ]
+source_file="res://icons/coin.png"
+dest_files=[ "res://.import/coin.png-d4aeb1ac998fa8474b5579d8e2764e8e.stex" ]
 
 [params]
 
