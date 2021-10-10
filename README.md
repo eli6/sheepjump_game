@@ -1,10 +1,10 @@
-# Sheep Jump Game :sheep:
+# Sheep Jump Game :sheep: :joystick:
 
 Small Godot game experiment (still a stub) that involves a sheep jumping on rocks.
 
 ## Installation
 
-You need to have the Godot engine installed. Open the "project.godot" file and press play to try out the game.
+You need to have the Godot engine installed. Clone the project, open the "project.godot" file with the Godot game engine and press play to try out the game.
 
 ## Gameplay example
 
